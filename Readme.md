@@ -4,6 +4,7 @@ This is where we gather our components in many libraries like React and Meteor.
 
 # JavaScript
 Components coded in pure JS.
+ - JSON/XLS Exporter
  - Smooth scroller
 
 # React
