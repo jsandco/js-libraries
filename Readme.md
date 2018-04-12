@@ -12,4 +12,4 @@ Components with React library only.
  - ConditionnalRoute
 
 # Meteor
-Components with React library only.
+Components with Meteor framework only.
